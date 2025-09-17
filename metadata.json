@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Learning Assistant",
+  "description": "An AI-based learning assistant where students can provide notes or text content and then ask contextual questions. The assistant generates accurate answers with source references, helping students with personalized learning.",
+  "requestFramePermissions": []
+}
